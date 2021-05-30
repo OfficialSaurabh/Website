@@ -9,7 +9,7 @@
 * Share the goodness of this awesome web template by sharing it & leaving a star on the repo
 
 ## Contributing
-Project BCET Chapter Community Website is an open source software project and I encourage developers to contribute patches and code for us to include in the development branch of Project. All contributions will be fully credited.
+Project BCET Chapter Community Website is an open source software project and we encourage developers to contribute patches and code for us to include in the development branch of Project. All contributions will be fully credited.
 
 ## Using GitHub Issues
 * Feel free to use GitHub issues for questions, bug reports, and feature requests
